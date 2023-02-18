@@ -8,6 +8,6 @@ Web Development Workshop  - Currents NIT Trichy - NIT Trichy - 19-02-2022 : http
 
 Machine Learning Workshop - Currents NIT Trichy - NIT Trichy - 20-02-2022 : https://drive.google.com/file/d/1ugdJBUJT_QkVGk55ay2Ql3G0pJqBxYgA/view
 
-Android App Development Workshop  - VIGYANTRAM - Pravega, IISC Bangalore - 01-09-2022 to 02-09-2022 : 
+Android App Development Workshop  - VIGYANTRAM - Pravega, IISC Bangalore - 01-09-2022 to 02-09-2022 : https://drive.google.com/file/d/1HQ0bUPyPXD90YRkzeAYAhi8nGmPYszGm/view?usp=sharing
 
-Ethical Hacking Workshop          - ZERON      - Pravega, IISC Bangalore - 03-09-2022 to 04-09-2022 : 
+Ethical Hacking Workshop          - ZERON      - Pravega, IISC Bangalore - 03-09-2022 to 04-09-2022 : https://drive.google.com/file/d/1HSIL4myyluG7K1jIxgM24i8oYMPFjxob/view?usp=sharing
